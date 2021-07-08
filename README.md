@@ -1,2 +1,2 @@
-# Data_Siences
+# Data_Sciences
 Data manipulation, data visualization, data analysis, ...
